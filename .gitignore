@@ -1,0 +1,9 @@
+ # Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+firebase/quanlyrung-d69ec-firebase-adminsdk-fbsvc-0beb5e5d49.json
+
+output/*.html
